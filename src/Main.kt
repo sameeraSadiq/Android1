@@ -53,6 +53,6 @@ fun factorialRecursive(n: Int): Long {
 fun main() {
     println(factorialRecursive(5))  // Output: 120
 }
-n=0 or n=1 ?1
-  factorial(n)=n*factorial(n-1)
-  5=5*(5-1)>n=5
+//n=0 or n=1 ?1
+//  factorial(n)=n*factorial(n-1)
+//  5=5*(5-1)>n=5
